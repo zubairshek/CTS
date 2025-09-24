@@ -28,6 +28,8 @@ namespace CrystalReportsApplication1
         clsDBAccess objDbAccess = new clsDBAccess();
         Connection objCon = new Connection();
         System.Collections.Hashtable parameters = new System.Collections.Hashtable();
+
+        //this is test
         public DailyRevenueReport()
         {
             InitializeComponent();
